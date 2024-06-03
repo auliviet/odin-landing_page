@@ -1,4 +1,8 @@
 # odin-landing_page
-Foundations Course / Flexbox
+Exercise for the Odin Project - Foundations on Flexbox
 
-Exercise as part of the Odin Project / Foundations Course to build a landing page using flexbox. The landing page should replicate the example provided by the course material.
+## Preview link
+[ To be added ]
+
+## Instructions
+The landing page should replicate the example provided by the course material.
